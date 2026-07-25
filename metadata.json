@@ -1,0 +1,6 @@
+{
+  "name": "Interior Locksmith",
+  "description": "Modern redesign for Interior Locksmith Ltd. - Full Service 24 Hour Locksmith in BC with interactive dispatch, service calculator, and booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
