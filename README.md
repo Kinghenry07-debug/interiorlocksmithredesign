@@ -26,4 +26,6 @@ Built with an urgent, trust-focused emergency UI, high-contrast dark-mode theme,
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+Copyright © 2026. All Rights Reserved. 
+
+This project and its source code are proprietary and built exclusively for portfolio demonstration. Unauthorized copying, distribution, modification, or commercial sale of this work is strictly prohibited.
